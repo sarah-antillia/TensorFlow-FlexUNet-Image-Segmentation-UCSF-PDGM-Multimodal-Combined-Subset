@@ -160,10 +160,14 @@ training our segmentation model.<br>
 <table border=1 style='border-collapse:collapse;' cellpadding='2'>
 <caption><b>Combined image example generated from four modalities</b></caption>
 <tr>
-<th width="220" height="auto">FLAIR</th><th>  </th>
-<th  width="220" height="auto">T1</th><th> </th>
-<th  width="220" height="auto"> T1c</th><th>  </th>
-<th  width="220" height="auto"> T2</th><th> </th>
+<th width="220" height="auto">FLAIR</th>
+<th width="30" height="auto"> </th>
+<th  width="220" height="auto">T1</th>
+<th width="30" height="auto"> </th>
+<th  width="220" height="auto"> T1c</th>
+<th width="30" height="auto"> </th>
+<th  width="220" height="auto"> T2</th>
+<th width="30" height="auto"> </th>
 <th  width="220" height="auto"> Combined</th>
 <tr>
 <td><img src="./mulltimodal_and_cobmined_images/1001_FLAIR_125.png" width="220" height="220"></td>
