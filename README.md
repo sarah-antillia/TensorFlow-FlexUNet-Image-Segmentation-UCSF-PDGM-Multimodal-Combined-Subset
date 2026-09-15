@@ -157,8 +157,7 @@ and their corresponding tumor segmentation mask slices, both originally in NIfTI
 However, for simplicity, we excluded all black empty masks and the corresponding images because they are irrelevant for 
 training our segmentation model.<br>
 <br>
-<img src="./mulltimodal_and_cobmined_images/mulltimodal_and_cobmined_images.png" width="1024" height="auto"><br>
-
+<img src="./mulltimodal_and_cobmined_images/mulltimodal_and_cobmined_images.png" width="1024" height="auto">
 <br><br>
 We also used the following class_color_mapping table to generate the colorized masks.
 <br><br>
