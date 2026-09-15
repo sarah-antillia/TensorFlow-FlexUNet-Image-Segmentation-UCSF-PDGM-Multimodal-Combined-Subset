@@ -162,15 +162,15 @@ training our segmentation model.<br>
 <tr>
 <th>FLAIR</th><th>  </th><th>T1</th><th> </th><th> T1c</th><th>  </th><th> T2</th><th> </th><th> Combined</th>
 <tr>
-<td><img src="./mulltimodal_and_cobmined_images/1001_FLAIR_125.png" width="200" height="auto"></td>
+<td><img src="./mulltimodal_and_cobmined_images/1001_FLAIR_125.png" width="220" height="220"></td>
 <td><b>+</b></td>
-<td><img src="./mulltimodal_and_cobmined_images/1001_T1_125.png" width="200" height="auto"></td>
+<td><img src="./mulltimodal_and_cobmined_images/1001_T1_125.png" width="220" height="220"></td>
 <td><b>+</b></td>
-<td><img src="./mulltimodal_and_cobmined_images/1001_T1c_125.png" width="200" height="auto"></td>
+<td><img src="./mulltimodal_and_cobmined_images/1001_T1c_125.png" width="220" height="220"></td>
 <td><b>+</b></td>
-<td><img src="./mulltimodal_and_cobmined_images/1001_T2_125.png" width="200" height="auto"></td>
+<td><img src="./mulltimodal_and_cobmined_images/1001_T2_125.png" width="220" height="220"></td>
 <td><b>=</b></td>
-<td><img src="./mulltimodal_and_cobmined_images/1001_Combined_125.png" width="200" height="auto"></td>
+<td><img src="./mulltimodal_and_cobmined_images/1001_Combined_125.png" width="220" height="220"></td>
 </tr>
 </table>
 <br><br>
