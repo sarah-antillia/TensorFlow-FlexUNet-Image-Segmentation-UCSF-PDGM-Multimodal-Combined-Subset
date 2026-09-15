@@ -30,9 +30,9 @@ As shown below, the inferred masks resemble the ground-truth masks. <br>
 <br>
 <table>
 <tr>
-<th>Input: combined image</th>
-<th>Mask (ground_truth)</th>
-<th>Prediction: inferred_mask</th>
+<th  width="320" height="auto">Input: combined image</th>
+<th  width="320" height="auto">Mask (ground_truth)</th>
+<th  width="320" height="auto">Prediction: inferred_mask</th>
 </tr>
 <tr>
 <td><img src="./projects/TensorFlowFlexUNet/UCSF-PDGM-Multimodal-Combined/mini_test/images/1008_90.png" width="320" height="auto"></td>
@@ -160,7 +160,11 @@ training our segmentation model.<br>
 <table border=1 style='border-collapse:collapse;' cellpadding='2'>
 <caption><b>Combined image example generated from four modalities</b></caption>
 <tr>
-<th>FLAIR</th><th>  </th><th>T1</th><th> </th><th> T1c</th><th>  </th><th> T2</th><th> </th><th> Combined</th>
+<th width="220" height="auto">FLAIR</th><th>  </th>
+<th  width="220" height="auto">T1</th><th> </th>
+<th  width="220" height="auto"> T1c</th><th>  </th>
+<th  width="220" height="auto"> T2</th><th> </th>
+<th  width="220" height="auto"> Combined</th>
 <tr>
 <td><img src="./mulltimodal_and_cobmined_images/1001_FLAIR_125.png" width="220" height="220"></td>
 <td><b>+</b></td>
@@ -453,9 +457,9 @@ Some Slices, Inferred Masks and Mask overlays for a 3D volume <b>UCSF-PDGM-0004_
 <br>
 <table>
 <tr>
-<th>Combined Image</th>
-<th>Inferred-mask</th>
-<th>Mask overlay</th>
+<th width="320" height="auto">Combined Image</th>
+<th width="320" height="auto">Inferred-mask</th>
+<th width="320" height="auto">Mask overlay</th>
 </tr>
 
 <tr>
